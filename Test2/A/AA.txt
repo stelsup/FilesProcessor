@@ -1,0 +1,2 @@
+<AA.txt>
+require 'A.txt'

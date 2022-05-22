@@ -1,2 +1,2 @@
-B
-require 'A.txt'
+<B.txt>
+require 'A/AA.txt'
