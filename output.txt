@@ -1,0 +1,7 @@
+A.txt
+<B/p.txt>
+<A/AA.txt>
+<A/AA/AAB.txt>
+<A/AA/AAA.txt begin>
+<A/AA/AAA.txt end>
+<A/AA/AAA/z.txt>

@@ -1,0 +1,17 @@
+Test
+|   A.txt
+|   
++---A
+|   |   AA.txt
+|   |   
+|   +---AA
+|   |   |   AAA.txt
+|   |   |   AAB.txt
+|   |   |   
+|   |   \---AAA
+|   |           z.txt
+|   |           
+|   \---AB
+\---B
+        p.txt
+        
