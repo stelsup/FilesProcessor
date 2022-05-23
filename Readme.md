@@ -50,7 +50,10 @@ A.txt
 ```
 Test2
 |   A.txt
-|   B.txt    
+|   B.txt
+|   
+\---A
+        AA.txt   
 ```
 **Output:**
 ```
